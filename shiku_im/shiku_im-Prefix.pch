@@ -11,7 +11,7 @@
 
 // app group id (share extension 数据分享绑定id)
 //#define APP_GROUP_ID  @"group.shiku.im.push"
-#define APP_GROUP_ID  @"group.shiku.coolim.push3"
+#define APP_GROUP_ID  @"group.shiku.coolim.push1"
 
 // 右上角部分响应区域 加大
 #define BTN_RANG_UP  10

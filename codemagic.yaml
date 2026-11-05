@@ -7,7 +7,7 @@ workflows:
       # 换成你自己的苹果开发者账号里的 Bundle ID。分享扩展会匹配同名前缀。
       ios_signing:
         distribution_type: ad_hoc
-        bundle_identifier: com.shiku.coolim.pushIm.apple
+        bundle_identifier: com.shiku.coolim.push1
       vars:
         XCODE_PROJECT: shiku_im.xcodeproj
         XCODE_SCHEME: shiku_im
