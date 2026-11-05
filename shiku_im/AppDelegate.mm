@@ -103,7 +103,7 @@ static  BMKMapManager* _baiduMapManager;
         ret = [_baiduMapManager start:@"tVZRqzVYKwbwX7NytFnDWAUh4RbMnPDL"  generalDelegate:nil];
     }else if ([identifier isEqualToString:@"com.shiku.live.push1"]) {//直播
         ret = [_baiduMapManager start:@"7YGiGTxFpa546GSxYt0RjVQ7yoz0oOdQ" generalDelegate:nil];
-    }else if ([identifier isEqualToString:@"com.shiku.coolim.push1"]) {//IM
+    }else if ([identifier isEqualToString:@"com.shiku.coolim.push1"] || [identifier isEqualToString:@"app.maroon1006.garlic5667"]) {//IM
         ret = [_baiduMapManager start:@"YWCjFscGk7cv3RlEtaxoypzt0sipp6vw"  generalDelegate:nil];
     }
     if (!ret)

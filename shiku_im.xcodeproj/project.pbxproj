@@ -8476,12 +8476,10 @@
 				8409055317B693CF00F5C28D /* Frameworks */,
 				8409055417B693CF00F5C28D /* Resources */,
 				0F4C12EE2151DF0200A4E09C /* Embed Frameworks */,
-				639E4BD9223F7F6900C3FE4B /* Embed App Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				631C6F0D223FBD21003C600F /* PBXTargetDependency */,
 			);
 			name = shiku_im;
 			productName = shiku_im;
@@ -10171,8 +10169,8 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = NO;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = L54NA89ZWN;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = LH57Z7N28B;
 				DOUBANGO_HOME = "";
 				DOUBANGO_LIBS = "";
 				"DOUBANGO_LIBS[arch=arm64]" = $DOUBANGO_HOME/thirdparties/iphone/lib/arm64;
@@ -10233,7 +10231,7 @@
 				NGN_STACK_HOME = "";
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_BUNDLE_IDENTIFIER = com.shiku.coolim.push1;
+				PRODUCT_BUNDLE_IDENTIFIER = app.maroon1006.garlic5667;
 				PRODUCT_NAME = shiku_im;
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -10257,8 +10255,8 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = NO;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = L54NA89ZWN;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = LH57Z7N28B;
 				DOUBANGO_HOME = "";
 				DOUBANGO_LIBS = "";
 				"DOUBANGO_LIBS[arch=arm64]" = $DOUBANGO_HOME/thirdparties/iphone/lib/arm64;
@@ -10312,7 +10310,7 @@
 				NGN_STACK_HOME = "";
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_BUNDLE_IDENTIFIER = com.shiku.coolim.push1;
+				PRODUCT_BUNDLE_IDENTIFIER = app.maroon1006.garlic5667;
 				PRODUCT_NAME = shiku_im;
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";

@@ -4,10 +4,10 @@ workflows:
     max_build_duration: 120
     instance_type: mac_mini_m2
     environment:
-      # 换成你自己的苹果开发者账号里的 Bundle ID。分享扩展会匹配同名前缀。
+      # 与 打包 目录里的描述文件一致。该文件只包含这一个包名和一台设备。
       ios_signing:
         distribution_type: ad_hoc
-        bundle_identifier: com.shiku.coolim.push1
+        bundle_identifier: app.maroon1006.garlic5667
       vars:
         XCODE_PROJECT: shiku_im.xcodeproj
         XCODE_SCHEME: shiku_im
