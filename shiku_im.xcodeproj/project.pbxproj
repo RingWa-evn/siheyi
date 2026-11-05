@@ -153,7 +153,6 @@
 		0F304E1C2153AD0E001EC77E /* XMPPPubSub.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F304D0F2153AD0D001EC77E /* XMPPPubSub.m */; };
 		0F304E1D2153AD0E001EC77E /* XMPPIQ+XEP_0060.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F304D122153AD0D001EC77E /* XMPPIQ+XEP_0060.m */; };
 		0F304E1E2153AD0E001EC77E /* NSXMLElement+XEP_0297.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F304D152153AD0D001EC77E /* NSXMLElement+XEP_0297.m */; };
-		0F304E1F2153AD0E001EC77E /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 0F304D162153AD0D001EC77E /* README.md */; };
 		0F304E202153AD0E001EC77E /* XMPPStringPrep.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F304D182153AD0D001EC77E /* XMPPStringPrep.m */; };
 		0F304E212153AD0E001EC77E /* XMPPSRVResolver.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F304D192153AD0D001EC77E /* XMPPSRVResolver.m */; };
 		0F304E222153AD0E001EC77E /* XMPPTimer.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F304D1A2153AD0D001EC77E /* XMPPTimer.m */; };
@@ -181,27 +180,19 @@
 		0F304E392153AD0E001EC77E /* DDAbstractDatabaseLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F304D612153AD0D001EC77E /* DDAbstractDatabaseLogger.m */; };
 		0F304E3A2153AD0E001EC77E /* DDFileLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F304D622153AD0D001EC77E /* DDFileLogger.m */; };
 		0F304E3B2153AD0E001EC77E /* DDASLLogCapture.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F304D642153AD0D001EC77E /* DDASLLogCapture.m */; };
-		0F304E3C2153AD0E001EC77E /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 0F304D652153AD0D001EC77E /* README.md */; };
-		0F304E3D2153AD0E001EC77E /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 0F304D662153AD0D001EC77E /* LICENSE.txt */; };
 		0F304E3E2153AD0E001EC77E /* GCDAsyncUdpSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F304D6A2153AD0D001EC77E /* GCDAsyncUdpSocket.m */; };
 		0F304E3F2153AD0E001EC77E /* GCDAsyncSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F304D6B2153AD0D001EC77E /* GCDAsyncSocket.m */; };
-		0F304E402153AD0E001EC77E /* README.markdown in Resources */ = {isa = PBXBuildFile; fileRef = 0F304D6E2153AD0D001EC77E /* README.markdown */; };
-		0F304E412153AD0E001EC77E /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 0F304D6F2153AD0D001EC77E /* LICENSE.txt */; };
-		0F304E422153AD0E001EC77E /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 0F304D712153AD0D001EC77E /* LICENSE */; };
 		0F304E432153AD0E001EC77E /* NSString+IDN.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F304D732153AD0D001EC77E /* NSString+IDN.m */; };
-		0F304E442153AD0E001EC77E /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 0F304D762153AD0D001EC77E /* README.md */; };
 		0F304E452153AD0E001EC77E /* profiles.c in Sources */ = {isa = PBXBuildFile; fileRef = 0F304D7A2153AD0D001EC77E /* profiles.c */; };
 		0F304E462153AD0E001EC77E /* rfc3454.c in Sources */ = {isa = PBXBuildFile; fileRef = 0F304D7B2153AD0D001EC77E /* rfc3454.c */; };
 		0F304E472153AD0E001EC77E /* stringprep.c in Sources */ = {isa = PBXBuildFile; fileRef = 0F304D7E2153AD0D001EC77E /* stringprep.c */; };
 		0F304E482153AD0E001EC77E /* nfkc.c in Sources */ = {isa = PBXBuildFile; fileRef = 0F304D7F2153AD0D001EC77E /* nfkc.c */; };
 		0F304E492153AD0E001EC77E /* u8-check.c in Sources */ = {isa = PBXBuildFile; fileRef = 0F304D802153AD0D001EC77E /* u8-check.c */; };
-		0F304E4A2153AD0E001EC77E /* README.markdown in Resources */ = {isa = PBXBuildFile; fileRef = 0F304D822153AD0D001EC77E /* README.markdown */; };
 		0F304E4B2153AD0E001EC77E /* DDXMLElement.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F304D862153AD0D001EC77E /* DDXMLElement.m */; };
 		0F304E4C2153AD0E001EC77E /* DDXMLElementAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F304D8A2153AD0D001EC77E /* DDXMLElementAdditions.m */; };
 		0F304E4D2153AD0E001EC77E /* DDXMLNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F304D8B2153AD0D001EC77E /* DDXMLNode.m */; };
 		0F304E4E2153AD0E001EC77E /* DDXMLDocument.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F304D8C2153AD0D001EC77E /* DDXMLDocument.m */; };
 		0F304E4F2153AD0E001EC77E /* NSString+DDXML.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F304D922153AD0D001EC77E /* NSString+DDXML.m */; };
-		0F304E502153AD0E001EC77E /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 0F304D942153AD0D001EC77E /* LICENSE.txt */; };
 		0F304E542153AF00001EC77E /* libidn.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F304E532153AF00001EC77E /* libidn.a */; };
 		0F30AA8820B2ADDB001CC39C /* JXSetChatTextFontVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F30AA8720B2ADDB001CC39C /* JXSetChatTextFontVC.m */; };
 		0F406F0221AC0EAA009BDD1E /* libstdc++.6.0.9.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F406F0121AC0EA9009BDD1E /* libstdc++.6.0.9.tbd */; };
@@ -819,7 +810,6 @@
 		63DB266222534E750089D138 /* FMDatabasePool.m in Sources */ = {isa = PBXBuildFile; fileRef = CCC889751E4C526E00180080 /* FMDatabasePool.m */; };
 		63DB266322534E780089D138 /* FMDatabaseQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = CCC889771E4C526E00180080 /* FMDatabaseQueue.m */; };
 		63DB266422534E7A0089D138 /* FMResultSet.m in Sources */ = {isa = PBXBuildFile; fileRef = CCC889791E4C526E00180080 /* FMResultSet.m */; };
-		63DD4F2421314DB800DC45F8 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 63DD4E5521314DB700DC45F8 /* LICENSE */; };
 		63DD4F2521314DB800DC45F8 /* NSLayoutConstraint+MASDebugAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DD4E5821314DB700DC45F8 /* NSLayoutConstraint+MASDebugAdditions.m */; };
 		63DD4F2621314DB800DC45F8 /* ViewController+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DD4E6121314DB700DC45F8 /* ViewController+MASAdditions.m */; };
 		63DD4F2721314DB800DC45F8 /* MASCompositeConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DD4E6521314DB700DC45F8 /* MASCompositeConstraint.m */; };
@@ -830,8 +820,6 @@
 		63DD4F2C21314DB800DC45F8 /* MASConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DD4E6C21314DB700DC45F8 /* MASConstraint.m */; };
 		63DD4F2D21314DB800DC45F8 /* MASViewConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DD4E6E21314DB700DC45F8 /* MASViewConstraint.m */; };
 		63DD4F2E21314DB800DC45F8 /* MASViewAttribute.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DD4E6F21314DB700DC45F8 /* MASViewAttribute.m */; };
-		63DD4F2F21314DB800DC45F8 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 63DD4E7021314DB700DC45F8 /* README.md */; };
-		63DD4F3021314DB800DC45F8 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 63DD4E7221314DB700DC45F8 /* LICENSE */; };
 		63DD4F3121314DB800DC45F8 /* NSObject+RITLExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DD4E7521314DB700DC45F8 /* NSObject+RITLExtension.m */; };
 		63DD4F3221314DB800DC45F8 /* UILabel+RITLExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DD4E7621314DB700DC45F8 /* UILabel+RITLExtension.m */; };
 		63DD4F3321314DB800DC45F8 /* CAGradientLayer+RITLGradientLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DD4E7721314DB700DC45F8 /* CAGradientLayer+RITLGradientLayer.m */; };
@@ -874,7 +862,6 @@
 		63DD4F5821314DB800DC45F8 /* RITLUtility.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DD4ED221314DB700DC45F8 /* RITLUtility.m */; };
 		63DD4F5921314DB800DC45F8 /* RITLArchiverManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DD4ED421314DB700DC45F8 /* RITLArchiverManager.m */; };
 		63DD4F5A21314DB800DC45F8 /* RITLRuntimeTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DD4ED721314DB700DC45F8 /* RITLRuntimeTool.m */; };
-		63DD4F5B21314DB800DC45F8 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 63DD4ED921314DB700DC45F8 /* README.md */; };
 		63DD4F5C21314DB800DC45F8 /* RITLPhotosGroupTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DD4EDF21314DB700DC45F8 /* RITLPhotosGroupTableViewController.m */; };
 		63DD4F5D21314DB800DC45F8 /* RITLPhotosGroupCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DD4EE021314DB700DC45F8 /* RITLPhotosGroupCell.m */; };
 		63DD4F5E21314DB800DC45F8 /* RITLPhotosMaker.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DD4EE221314DB700DC45F8 /* RITLPhotosMaker.m */; };
@@ -902,8 +889,6 @@
 		63DD4F7421314DB800DC45F8 /* RITLPhotosCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DD4F1721314DB700DC45F8 /* RITLPhotosCell.m */; };
 		63DD4F7521314DB800DC45F8 /* PHPhotoLibrary+RITLPhotoStore.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DD4F1921314DB700DC45F8 /* PHPhotoLibrary+RITLPhotoStore.m */; };
 		63DD4F7621314DB800DC45F8 /* RITLPhotosViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DD4F1C21314DB700DC45F8 /* RITLPhotosViewController.m */; };
-		63DD4F7721314DB800DC45F8 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 63DD4F1F21314DB700DC45F8 /* LICENSE */; };
-		63DD4F7821314DB800DC45F8 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 63DD4F2021314DB700DC45F8 /* README.md */; };
 		63DD4F7921314DB800DC45F8 /* UIView+RITLFrameChanged.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DD4F2221314DB700DC45F8 /* UIView+RITLFrameChanged.m */; };
 		63E43FB222B22C2000B8CBE9 /* jpush-ios-3.2.1.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 63E43FAD22B22C2000B8CBE9 /* jpush-ios-3.2.1.a */; };
 		63E43FB322B22C2000B8CBE9 /* jpush-extension-ios-1.1.2.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 63E43FAE22B22C2000B8CBE9 /* jpush-extension-ios-1.1.2.a */; };
@@ -8581,7 +8566,6 @@
 				CC3017451951BABF0059BADA /* f083@2x.png in Resources */,
 				CC3017421951BABF0059BADA /* f082.png in Resources */,
 				0FCC717D1F6941250026859D /* pub_record_button@2x.png in Resources */,
-				0F304E422153AD0E001EC77E /* LICENSE in Resources */,
 				0FA2D5751FB05CCC00D51BB9 /* lookup_soft_elegance_1.png in Resources */,
 				0F618E881FE3730100333249 /* UMSCommentInputControlleriPad.xib in Resources */,
 				0F5C92C01E4DA681005C31C2 /* im_map_button_press@3x.png in Resources */,
@@ -8592,7 +8576,6 @@
 				CC3017041951BABF0059BADA /* f051.png in Resources */,
 				CC3016D61951BABF0059BADA /* f028.png in Resources */,
 				0F5C92CC1E4DBDC1005C31C2 /* im_card_button_normal@3x.png in Resources */,
-				0F304E1F2153AD0E001EC77E /* README.md in Resources */,
 				CC3017261951BABF0059BADA /* f068.png in Resources */,
 				CC3016E61951BABF0059BADA /* f036.png in Resources */,
 				CC3016A81951BABF0059BADA /* f005.png in Resources */,
@@ -8655,14 +8638,11 @@
 				18ABD68C1D07FDAE000F43FC /* add_picture@2x.png in Resources */,
 				18ABD6B01D07FDAE000F43FC /* navBarBackground@3x.png in Resources */,
 				CC3016B51951BABF0059BADA /* f011@2x.png in Resources */,
-				0F304E402153AD0E001EC77E /* README.markdown in Resources */,
 				CC30175C1951BABF0059BADA /* f095.png in Resources */,
 				1850911B1D12ACA200C98E17 /* praise@2x.png in Resources */,
 				0F5C92A71E4DA4F8005C31C2 /* im_photo_button_press@2x.png in Resources */,
-				0F304E3C2153AD0E001EC77E /* README.md in Resources */,
 				0F5C92A01E4DA2A7005C31C2 /* im_input_expression_normal@3x.png in Resources */,
 				6350CC251F9D7FCE00D21B6F /* feeds_play_btn_u@2x.png in Resources */,
-				0F304E4A2153AD0E001EC77E /* README.markdown in Resources */,
 				CC30172B1951BABF0059BADA /* f070@2x.png in Resources */,
 				CC3016AA1951BABF0059BADA /* f006.png in Resources */,
 				CC30173B1951BABF0059BADA /* f078@2x.png in Resources */,
@@ -8724,7 +8704,6 @@
 				0F5C92A31E4DA4C4005C31C2 /* im_photo_button_normal@2x.png in Resources */,
 				18E9EA8E1D8640F3002E334F /* RDUp2.png in Resources */,
 				CC3016C81951BABF0059BADA /* f021.png in Resources */,
-				63DD4F2421314DB800DC45F8 /* LICENSE in Resources */,
 				18ABD6BF1D07FDAE000F43FC /* video_contrl_pause@2x.png in Resources */,
 				0F618E8D1FE3730100333249 /* UMSShareListController.xib in Resources */,
 				639A50821ED97E3B00C21D30 /* unableCheck@3x.png in Resources */,
@@ -8771,14 +8750,12 @@
 				CC3016C91951BABF0059BADA /* f021@2x.png in Resources */,
 				CC3016CA1951BABF0059BADA /* f022.png in Resources */,
 				CC30174E1951BABF0059BADA /* f088.png in Resources */,
-				63DD4F7821314DB800DC45F8 /* README.md in Resources */,
 				CC3016F21951BABF0059BADA /* f042.png in Resources */,
 				0FCC71771F6941250026859D /* back_page@2x.png in Resources */,
 				CC30175A1951BABF0059BADA /* f094.png in Resources */,
 				CC30174C1951BABF0059BADA /* f087.png in Resources */,
 				CCC88D071E4C772200180080 /* JXSettingsCell.xib in Resources */,
 				CC3016AD1951BABF0059BADA /* f007@2x.png in Resources */,
-				0F304E442153AD0E001EC77E /* README.md in Resources */,
 				CC30174D1951BABF0059BADA /* f087@2x.png in Resources */,
 				CC3016F51951BABF0059BADA /* f043@2x.png in Resources */,
 				0FF1CBC82255B3E500DD307D /* im_ab_button_normal@2x.png in Resources */,
@@ -8806,13 +8783,11 @@
 				CC3017021951BABF0059BADA /* f050.png in Resources */,
 				CCC7B029197FA18900A828A8 /* im_delete_button_press.png in Resources */,
 				CC30171F1951BABF0059BADA /* f064@2x.png in Resources */,
-				0F304E412153AD0E001EC77E /* LICENSE.txt in Resources */,
 				CC3016A01951BABF0059BADA /* f001.png in Resources */,
 				CC3016F41951BABF0059BADA /* f043.png in Resources */,
 				CC3017071951BABF0059BADA /* f052@2x.png in Resources */,
 				18ABD6931D07FDAE000F43FC /* feaBtn_backImg_sel.png in Resources */,
 				CC3017151951BABF0059BADA /* f059@2x.png in Resources */,
-				63DD4F7721314DB800DC45F8 /* LICENSE in Resources */,
 				0F5C92DC1E4DBE6E005C31C2 /* im_awarda_a_bonus_normal@3x.png in Resources */,
 				CC3016F31951BABF0059BADA /* f042@2x.png in Resources */,
 				CC3016F11951BABF0059BADA /* f041@2x.png in Resources */,
@@ -8852,7 +8827,6 @@
 				CC3016D31951BABF0059BADA /* f026@2x.png in Resources */,
 				0F5C92B71E4DA627005C31C2 /* im_video_button_press@2x.png in Resources */,
 				CC3016D71951BABF0059BADA /* f028@2x.png in Resources */,
-				0F304E502153AD0E001EC77E /* LICENSE.txt in Resources */,
 				CC3016B41951BABF0059BADA /* f011.png in Resources */,
 				CC3017461951BABF0059BADA /* f084.png in Resources */,
 				18ABD6AF1D07FDAE000F43FC /* navBarBackground@2x.png in Resources */,
@@ -8880,16 +8854,13 @@
 				CC1D1916195432CA0029F7FD /* MJRefresh.bundle in Resources */,
 				0F5C92C71E4DBD75005C31C2 /* im_audio_button_press@2x.png in Resources */,
 				639A50801ED97E3B00C21D30 /* unableCheck@2x.png in Resources */,
-				63DD4F3021314DB800DC45F8 /* LICENSE in Resources */,
 				0FB6289D2127B7CF00E35A49 /* im_collection_button_normal@2x.png in Resources */,
 				CC3016EB1951BABF0059BADA /* f038@2x.png in Resources */,
 				CC3017521951BABF0059BADA /* f090.png in Resources */,
 				CC3017221951BABF0059BADA /* f066.png in Resources */,
 				18ABD6A91D07FDAE000F43FC /* line_640.png in Resources */,
 				CC3017481951BABF0059BADA /* f085.png in Resources */,
-				63DD4F2F21314DB800DC45F8 /* README.md in Resources */,
 				18E9EAA21D868DF9002E334F /* Haircircleoffriends2@3x.png in Resources */,
-				0F304E3D2153AD0E001EC77E /* LICENSE.txt in Resources */,
 				CCC88B671E4C526E00180080 /* speaker_2.png in Resources */,
 				6371C2B22238F5E100A707A4 /* SearchWebView.js in Resources */,
 				0F5C92F41E4DD34D005C31C2 /* title_button_middle_press.png in Resources */,
@@ -8901,7 +8872,6 @@
 				0FA2D5711FB05CCC00D51BB9 /* lookup_amatorka.png in Resources */,
 				0F5C92AC1E4DA55B005C31C2 /* im_pickup_button_normal@3x.png in Resources */,
 				CC3016FF1951BABF0059BADA /* f048@2x.png in Resources */,
-				63DD4F5B21314DB800DC45F8 /* README.md in Resources */,
 				CC30171E1951BABF0059BADA /* f064.png in Resources */,
 				CC3016D81951BABF0059BADA /* f029.png in Resources */,
 				CC3016E01951BABF0059BADA /* f033.png in Resources */,
