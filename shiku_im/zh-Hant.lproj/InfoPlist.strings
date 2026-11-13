@@ -1,6 +1,6 @@
 /* Localized versions of Info.plist keys */
 
-CFBundleDisplayName = "即時通訊";
+CFBundleDisplayName = "潮友";
 
 nscamerausagedescription ="打開相機以便錄製視頻進行消息發送";
 nscontactsusagedescription ="允許上傳通訊錄數據到服務器，以便發現共同使用此app的好友";

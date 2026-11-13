@@ -1,5 +1,5 @@
 /* Localized versions of Info.plist keys */
-CFBundleDisplayName = "HFCP";
+CFBundleDisplayName = "潮友";
 
 NSCameraUsageDescription = "打开相机以便录制视频进行消息发送";
 NSContactsUsageDescription = "允许上传通讯录数据到服务器，以便发现共同使用此APP的好友";
